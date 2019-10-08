@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/fetch_post_user_from_jsonplaceholder/static/js/main.fae96413.chunk.js",
+    "main.js.map": "/fetch_post_user_from_jsonplaceholder/static/js/main.fae96413.chunk.js.map",
+    "runtime-main.js": "/fetch_post_user_from_jsonplaceholder/static/js/runtime-main.5a12d56a.js",
+    "runtime-main.js.map": "/fetch_post_user_from_jsonplaceholder/static/js/runtime-main.5a12d56a.js.map",
+    "static/js/2.80902c0a.chunk.js": "/fetch_post_user_from_jsonplaceholder/static/js/2.80902c0a.chunk.js",
+    "static/js/2.80902c0a.chunk.js.map": "/fetch_post_user_from_jsonplaceholder/static/js/2.80902c0a.chunk.js.map",
+    "index.html": "/fetch_post_user_from_jsonplaceholder/index.html",
+    "precache-manifest.08b5c7f18b84d0491d6498f77748acd4.js": "/fetch_post_user_from_jsonplaceholder/precache-manifest.08b5c7f18b84d0491d6498f77748acd4.js",
+    "service-worker.js": "/fetch_post_user_from_jsonplaceholder/service-worker.js"
+  }
+}
